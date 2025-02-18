@@ -27,7 +27,7 @@ Following plots are with ..
 - frequency = 1~50
 - amplitude = 0~352.8°
 - noise amplitude = 0.1  
-_nyquist plot_
+_nyquist plot_  
 ![plot on cplane](img/result_multi_cplane.png)  
 _timedomain plot: animated for each frequency steps_  
 ![time domain plot](img/result_multi_timedomain_animated.gif)  
